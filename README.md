@@ -1,5 +1,3 @@
-# Untitled
-
 <p align="center">
   <img src="https://miro.medium.com/max/400/1*Pk2mZo1cBqfVqQi-mtAkuA.png">
 </p>
@@ -13,7 +11,6 @@ $ yarn --version
 1.22.10
 ```
 
----
 
 Make sure to install all Project/Dev dependencies.
 
@@ -21,7 +18,6 @@ Make sure to install all Project/Dev dependencies.
 $ yarn install
 ```
 
----
 
 - First of all, you need to run the json server →
 
