@@ -1,7 +1,7 @@
 # Untitled
 
 <p align="center">
-![https://miro.medium.com/max/400/1*Pk2mZo1cBqfVqQi-mtAkuA.png](https://miro.medium.com/max/400/1*Pk2mZo1cBqfVqQi-mtAkuA.png)
+  <img src="https://miro.medium.com/max/400/1*Pk2mZo1cBqfVqQi-mtAkuA.png">
 </p>
 
 # Vue Task Tracker
