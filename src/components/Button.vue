@@ -1,7 +1,7 @@
 <template>
     <button 
         :style="`background: ${color}`" 
-        @click="onClick"
+        @click="$emit('btn-click')"
         class="btn"
     >
     {{ text }}
@@ -21,11 +21,6 @@ export default {
             type: String,
             required: true,
             default: "lightgray"
-        }
-    },
-    methods: {
-        onClick() {
-            console.log("click")
         }
     }
 }
